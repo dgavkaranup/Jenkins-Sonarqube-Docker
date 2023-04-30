@@ -1,3 +1,3 @@
 FROM nginx
-COPY . /usr/share/nginx/html/
-RUN echo "hello"
+COPY  /usr/share/nginx/html/
+
